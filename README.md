@@ -1,19 +1,15 @@
-### :smile: Hi there, I'm EHOTO
+> It is easy for anyone to promise. But fulfilling the promise is not easy.<br/>
+> One Day, One Commmit !
 
-  - Making GitHub Profile...!
-  - 
-
-I've used also:
-
-  * [Spring] - 
-  * [Spring Boot] - 
-  * [jQuery] - 
-  * [React] - 
-  * [Vue] - 
-  * [Markdown] - 
+<br/>
 
 Configuring template...!!
 I'm writing a meaningless phrase just to check the feeling how it looks!!
+
+I've used also:
+
+  - Making GitHub Profile...!
+  - 
 
 
 ### :chart_with_upwards_trend: Curriculum
@@ -27,20 +23,14 @@ I'm writing a meaningless phrase just to check the feeling how it looks!!
 | 2018.11 ~         |  |  |  |
 
 
-
-<br/>
-
-
-> It is easy for anyone to promise. But fulfilling the promise is not easy.
-> One Day, One Commmit !
-
-
 <br/>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeWoongKim2%2Fhit-counter&count_bg=%23699A44&title_bg=%23434343&icon=aiqfome.svg&icon_color=%23D7D7D7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TaeWoongKim2&show_icons=true&count_private=true&hide_rank=false&hide=" height="200px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeWoongKim2&hide=html,css" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=TaeWoongKim2&show_icons=true&count_private=true&hide_rank=false&hide=" height="200px" />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeWoongKim2&hide=html,css" height="200px" /> -->
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EHOTO&layout=compact" /> -->
 
