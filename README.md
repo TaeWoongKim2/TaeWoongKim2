@@ -1,18 +1,8 @@
-> It is easy for anyone to promise. But fulfilling the promise is not easy.<br/>
-> One Day, One Commmit !
-
-<br/>
-
 Configuring template...!!
 I'm writing a meaningless phrase just to check the feeling how it looks!!
 
-I've used also:
 
-  - Making GitHub Profile...!
-  - 
-
-
-### :chart_with_upwards_trend: Curriculum
+### :chart_with_upwards_trend: Career
 
 | Date | Type | Contents | remarks |
 | ------ | ------ | ------ | ------ |
@@ -26,14 +16,24 @@ I've used also:
 <br/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeWoongKim2%2Fhit-counter&count_bg=%23699A44&title_bg=%23434343&icon=aiqfome.svg&icon_color=%23D7D7D7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> It is easy for anyone to promise. But fulfilling the promise is not easy.<br/>
+> One Day, One Commmit !
+
+
+### :rocket: Skils
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=TaeWoongKim2&show_icons=true&count_private=true&hide_rank=false&hide=" height="200px" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeWoongKim2&hide=html,css" height="200px" /> -->
-
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EHOTO&layout=compact" /> -->
 
+
+### :rocket: About me
+
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GITHUB](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
